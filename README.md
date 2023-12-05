@@ -4,6 +4,7 @@
 # Wi-Fi Inspector
 ### **WiFi Password Scanning Tool**
 ![](Data/head.png)
+
 Wi-Fi Inspector is a user-friendly WiFi password scanner designed for Windows computers. This tool allows users to easily scan and retrieve WiFi passwords saved on their Windows systems.
 
 ![](screenshots/interface.jpg)
