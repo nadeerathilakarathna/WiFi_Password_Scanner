@@ -13,10 +13,10 @@ Wi-Fi Inspector is a user-friendly WiFi password scanner designed for Windows co
 
 
 ### *How to use?*
-[<img src="https://img.youtube.com/vi/gXfK1hXlhPk/hqdefault.jpg" width="400" height="250"
+<center>[<img src="https://img.youtube.com/vi/gXfK1hXlhPk/hqdefault.jpg" width="400" height="250"
 />](https://www.youtube.com/embed/gXfK1hXlhPk)
 
-https://www.youtube.com/embed/gXfK1hXlhPk
+https://www.youtube.com/embed/gXfK1hXlhPk</center>
 \
 \
 \
