@@ -18,6 +18,10 @@ Wi-Fi Inspector is a user-friendly WiFi password scanner designed for Windows co
 
 https://www.youtube.com/embed/gXfK1hXlhPk
 
+![](screenshots/support.jpg)
+
+[![](screenshots/download.jpg)](https://firebasestorage.googleapis.com/v0/b/wifi-inspactor.appspot.com/o/Wifi%20Password%20Inspector%201.0%20(Nadeera%20Thilakarathna).rar?alt=media&token=1385f587-7df8-45fb-912f-55471e1699b5)
+
 ## License <a id="license"></a>
 This project distributed under the GPL V2 license. When you make changes the source code, you must give the permission for owner and give the credits to the authorized owner.
 
